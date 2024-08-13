@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvitalit_frontend_docs=self.webpackChunkvitalit_frontend_docs||[]).push([[1235],{8552:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

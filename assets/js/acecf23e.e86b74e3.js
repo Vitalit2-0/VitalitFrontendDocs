@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvitalit_frontend_docs=self.webpackChunkvitalit_frontend_docs||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/VitalitFrontendDocs/blog","blogTitle":"Blog","authorsListPath":"/VitalitFrontendDocs/blog/authors"}')}}]);
